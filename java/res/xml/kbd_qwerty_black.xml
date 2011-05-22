@@ -93,9 +93,13 @@
             android:popupKeyboard="@xml/kbd_popup_template"
             android:popupCharacters="@string/alternates_for_g" />
         <Key
-            android:keyLabel="h" />
+            android:keyLabel="h"
+            android:popupKeyboard="@xml/kbd_popup_template"
+            android:popupCharacters="@string/alternates_for_h" />
         <Key
-            android:keyLabel="j" />
+            android:keyLabel="j"
+            android:popupKeyboard="@xml/kbd_popup_template"
+            android:popupCharacters="@string/alternates_for_j" />
         <Key
             android:keyLabel="k" />
         <Key
